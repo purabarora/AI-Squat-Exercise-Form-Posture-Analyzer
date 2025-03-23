@@ -34,14 +34,6 @@ This project is an interactive web application designed to analyze squat form an
 
 3. Upload your squat image (preferably a clear side-angle image at the deepest point of your squat) and receive instant feedback.
 
-## Project Structure
-
-```
-├── app.py                 # Streamlit application
-├── squat_classifier.h5    # Trained MobileNetV2 model
-└── README.md              # Project overview
-```
-
 ## Purpose
 
 Squats are a fundamental exercise in strength training, but improper form can easily lead to knee strain, back issues, and other injuries. This project provides an AI-driven solution to promote proper technique and prevent injuries through real-time posture assessment.
